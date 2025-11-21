@@ -26,4 +26,18 @@ p3 {
   color: black
   font-family: Monaco;
   font-size: 16px;
+  margin-left: 10px;
+}
+
+p4 {
+  color: black
+  font-family: Monaco;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+p5 {
+  color: black
+  font-family: Monaco;
+  font-size: 16px;
 }
