@@ -12,12 +12,32 @@ h1 {
 p1 {
   color: black
   font-family: Monaco;
-  font-size: 22px;
+  font-size: 16px;
 }
 
 p2 {
   color: black
   font-family: Monaco;
-  font-size: 20px;
+  font-size: 16px;
   margin-left: 10px;
+}
+
+p3 {
+  color: black
+  font-family: Monaco;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+p4 {
+  color: black
+  font-family: Monaco;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+p5 {
+  color: black
+  font-family: Monaco;
+  font-size: 16px;
 }
