@@ -1,8 +1,16 @@
 body {
-    background-color: lightblue;
+  background-color: #00bfff;
 }
 
-h1{
-    color:navy;
-    margin-left:20px;
+h1 {
+  color: navy;
+  text-align: center;
+  font-family: Garamond;
+  font-style: italic;
+}
+
+p1 {
+  color: black
+  font-family: Monaco;
+  font-size: 20px;
 }
