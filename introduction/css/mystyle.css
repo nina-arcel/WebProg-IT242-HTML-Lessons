@@ -1,5 +1,5 @@
 body {
-  background-color: #00bfff;
+  background-color:#FCF9F3;
 }
 
 h1 {
@@ -15,4 +15,11 @@ p1 {
   font-family: Monaco;
   font-size: 16px;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
