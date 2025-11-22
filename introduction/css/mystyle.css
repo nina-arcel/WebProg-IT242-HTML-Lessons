@@ -1,5 +1,5 @@
 body {
-  background-color:#FCF9F3;
+  background-color: #FCF9F3;
 }
 
 h1 {
@@ -9,8 +9,8 @@ h1 {
   font-style: italic;
 }
 
-p1 {
-  color: black
+.p {
+  color: black;
   text-align: center;
   font-family: Monaco;
   font-size: 16px;
