@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: navy;
+  color: rgb(146, 78, 1)163, 60, 0);
   text-align: center;
   font-family: Garamond;
   font-style: italic;
@@ -11,33 +11,8 @@ h1 {
 
 p1 {
   color: black
+  text-align: center;
   font-family: Monaco;
   font-size: 16px;
 }
 
-p2 {
-  color: black
-  font-family: Monaco;
-  font-size: 16px;
-  margin-left: 10px;
-}
-
-p3 {
-  color: black
-  font-family: Monaco;
-  font-size: 16px;
-  margin-left: 10px;
-}
-
-p4 {
-  color: black
-  font-family: Monaco;
-  font-size: 16px;
-  margin-left: 10px;
-}
-
-p5 {
-  color: black
-  font-family: Monaco;
-  font-size: 16px;
-}
