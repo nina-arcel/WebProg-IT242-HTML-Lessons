@@ -3,7 +3,8 @@
 <head>
     <link rel="stylesheet"href="css/css/flexbox.css">
 <title>Niña's Introduction</title>
-</head>
+<style>
+<head>
 <body>
 <h1>Niña's Personal Profile Web page </h1>
 <p>
@@ -28,20 +29,38 @@ Graduate on Time<br>
 
 <img src="https://cdn.theatlantic.com/thumbor/6YkcrRBiYGvcWgXMt5Ub2KPOP8s=/445x55:3715x2507/1200x900/media/img/2015/09/BOB_Boxer_Peanuts_Opener_HP/original.jpg" alt="snoopy" width="600" height="500">
 
-<img src="https://static.wixstatic.com/media/449abe_5bcdc480851443d6b592c87fa3552f4e~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85/cb-color.jpg" alt="charlie" width="500" height="500">
+/* <img src="https://static.wixstatic.com/media/449abe_5bcdc480851443d6b592c87fa3552f4e~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85/cb-color.jpg" alt="charlie" width="500" height="500"> */
 
-<img src="https://i.pinimg.com/736x/21/df/90/21df90340a250ca80e8a5ed9fb057155.jpg" alt="woodstock" width="800" height="500">
+/* <img src="https://i.pinimg.com/736x/21/df/90/21df90340a250ca80e8a5ed9fb057155.jpg" alt="woodstock" width="800" height="500"> */
 
-<img src="https://carboncostume.com/wordpress/wp-content/uploads/2013/12/Lucy-van-Pelt.jpg" alt="lucy" width="800" height="500">
+/* <img src="https://carboncostume.com/wordpress/wp-content/uploads/2013/12/Lucy-van-Pelt.jpg" alt="lucy" width="800" height="500"> */
 
-<img src="https://bookstr.com/wp-content/uploads/2022/09/Sally-in-pink-dress.jpg" alt="lucy" width="500" height="500">
+/* <img src="https://bookstr.com/wp-content/uploads/2022/09/Sally-in-pink-dress.jpg" alt="sally" width="500" height="500"> */
 
-<div class="container">
-  <div>1</div>
-  <div>2</div>
-  <div>3</div>  
-  <div>4</div>
+{
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;  
+  font-size: 30px;
+  flex: 33.3%;
+}
+
+<div class="flex-container">
+  <img src="https://static.wixstatic.com/media/449abe_5bcdc480851443d6b592c87fa3552f4e~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85/cb-color.jpg" alt="charlie">
+  <img src="https://i.pinimg.com/736x/21/df/90/21df90340a250ca80e8a5ed9fb057155.jpg" alt="woodstock">
+  <img src="https://carboncostume.com/wordpress/wp-content/uploads/2013/12/Lucy-van-Pelt.jpg" alt="lucy">
+  <img src="https://bookstr.com/wp-content/uploads/2022/09/Sally-in-pink-dress.jpg" alt="sally">  
 </div>
+
 
 </body>
 </html>
