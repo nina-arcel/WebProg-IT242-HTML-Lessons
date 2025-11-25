@@ -24,9 +24,9 @@ img {
 
 .container {
   display: flex;
-  justify-content: flex-end; 
-  align-items: flex-start; 
   justify-content: flex-end;
+  align-items: flex-start; 
+  flex-wrap: wrap;
   background-color: #deb887;
 }
  
