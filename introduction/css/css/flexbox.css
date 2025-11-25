@@ -25,15 +25,16 @@ img {
 .container {
   display: flex;
   flex-wrap: wrap;
+  content: center;
   background-color: #deb887;
 }
  
 .container div {
   background-color: #f1f1f1;
-  width: 100px;
+  height: auto;
+  width: auto;
   margin: 10px;
   padding: 10px;
-  text-align: center;  
-  font-size: 30px;
 
 }
+
