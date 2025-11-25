@@ -17,27 +17,25 @@ p {
 }
 
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  float: right;
+  margin-left: 15px;
 }
 
 .container {
   display: flex;
-  justify-content: flex-end;
-  align-items: flex-start; 
+  justify-content: center;
   flex-wrap: wrap;
   background-color: #deb887;
 }
- 
+
 .container div {
   background-color: #f1f1f1;
   height: auto;
   width: auto;
   margin: 10px;
   padding: 10px;
-
 }
+
 
 
 
