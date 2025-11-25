@@ -25,7 +25,7 @@ img {
 .container {
   display: flex;
   flex-wrap: wrap;
-  content: center;
+  justify-content: flex-end;
   background-color: #deb887;
 }
  
@@ -37,4 +37,5 @@ img {
   padding: 10px;
 
 }
+
 
