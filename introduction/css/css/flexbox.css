@@ -11,7 +11,7 @@ h1 {
 
 p {
   color: black;
-  text-align: center;
+  margin-left: 100px;
   font-family: Monaco;
   font-size: 16px;
 }
@@ -25,6 +25,9 @@ img {
 .container {
   display: flex;
   flex-wrap: wrap;
+  display: flex;
+  justify-content: flex-end; 
+  align-items: flex-start;
   justify-content: flex-end;
   background-color: #deb887;
 }
@@ -37,5 +40,6 @@ img {
   padding: 10px;
 
 }
+
 
 
