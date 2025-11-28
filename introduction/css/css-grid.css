@@ -31,7 +31,6 @@ nav ul {
   padding: 0;
 }
 
-/* Mobile first */
 .container > * {
   border: 1px solid green;
   background-color: beige;
