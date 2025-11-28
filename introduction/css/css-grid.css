@@ -4,20 +4,14 @@
   font-family: Garamond;
   font-style: italic;
   text-align: center;
+  font-size: 30px;
 }
 
-h1 {
-  color: rgb(146, 78, 1);
-  text-align: center;
-  font-family: Garamond;
-  font-style: italic;
-}
-
-p {
+.content {
   color: black;
   text-align: center;
   font-family: Monaco;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 
