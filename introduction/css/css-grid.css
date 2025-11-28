@@ -7,7 +7,7 @@
   font-size: 30px;
 }
 
-p {
+.content {
   color: black;
   text-align: center;
   font-family: Monaco;
@@ -32,8 +32,8 @@ nav ul {
 }
 
 .container > * {
-  border: 1px solid green;
-  background-color: beige;
+  border: 1px solid brown;
+  background-color: rgb(243, 243, 229);
   padding: 10px;
   grid-column: col-start / span 12;
 }
