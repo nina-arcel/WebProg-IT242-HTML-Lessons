@@ -4,7 +4,7 @@
   font-family: Garamond;
   font-style: italic;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
 }
 
  .content {
@@ -12,14 +12,14 @@
     color: black;
     text-align: center;
     font-family: Monaco;
-    font-size: 17px;
+    font-size: 20px;
   }
 
   p {
     color: black;
     text-align: center;
     font-family: Monaco;
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
