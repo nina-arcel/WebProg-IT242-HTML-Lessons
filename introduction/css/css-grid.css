@@ -49,10 +49,12 @@ nav ul {
 @media (min-width: 576px) {
   .sidebar {
     grid-column: col-start / span 3;
+    justify-content: cener;
     grid-row: 3;
   }
   .ads {
     grid-column: col-start / span 3;
+    justify-content: cener;
   }
   .content, .footer {
     grid-column: col-start 4 / span 9;
