@@ -80,7 +80,7 @@ nav ul {
     grid-column: col-start 11 / span 2;
   }
   .footer {
-    flex-direction: column;
+    grid-column: col-start / span 12;
   }
   nav ul {
     flex-direction: column;
