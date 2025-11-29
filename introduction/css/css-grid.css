@@ -5,7 +5,7 @@
   font-style: italic;
   font-style: bold;
   text-align: center;
-  font-size: 20px;
+  font-size: 30px;
 }
 
  .content {
@@ -13,14 +13,14 @@
     color: black;
     text-align: center;
     font-family: Monaco;
-    font-size: 20px;
+    font-size: 17px;
   }
 
   p {
     color: black;
     text-align: center;
     font-family: Monaco;
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
