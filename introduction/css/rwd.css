@@ -86,6 +86,21 @@ body {
   text-align: center;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: #deb887;
+}
+
+.container div {
+  background-color: #f1f1f1;
+  height: auto;
+  width: auto;
+  margin: 10px;
+  padding: 10px;
+}
+
 @media (min-width: 600px) {
   .header {grid-area: 1 / span 6;}
   .menu {grid-area: 2 / span 1;}
