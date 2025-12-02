@@ -21,9 +21,9 @@ body {
 
 .header {
   grid-area: header;
-  background-color: purple;
+  background-color: burlywood;
   text-align: center;
-  color: #ffffff;
+  color: #0000;
 }
 
 .header > h1 {
